@@ -1,0 +1,22 @@
+# build folder
+_build/
+
+# SASS cache
+.sass-cache
+
+# NodeJS modules
+node_modules
+
+# OS files
+[Tt]humbs.db
+*.DS_Store
+
+# Sublime files
+*.sublime-*
+
+# VS Code files
+.vscode
+
+# logs
+*.log
+logs/

@@ -1,0 +1,18 @@
+{
+	"files": [
+		"./game/*.ts",
+		"./game/lib/*.ts"
+	],
+	"typeRoots": [
+		"./node_modules/@types"
+	],
+	"types": [
+		"phaser-ce"
+	],
+	"compilerOptions": {
+		"noImplicitAny": true,
+		"target": "ES5",
+		"module": "commonjs",
+		"sourceMap": true
+	}
+}
